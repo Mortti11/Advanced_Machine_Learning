@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Advanced_Machine_Learning
-=======
-# Advanced_ML Project
->>>>>>> f73102f (Initial commit with README)
+# Advanced Machine Learning Project
+
+This repository is for Advanced Machine Learning project experiences.
+
